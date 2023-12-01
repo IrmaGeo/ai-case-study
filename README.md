@@ -1,4 +1,4 @@
-<img src="../ai-case-study/images/logo.png" alt="EliseAI Logo" width="150">
+<img src="/images/logo.png" alt="EliseAI Logo" width="150">
 
 # EliseAI
 
@@ -17,15 +17,15 @@ EliseAI has successfully raised $66.9M over four funding rounds, with the latest
 
 *Total Funds*
 
-<img src="../ai-case-study/images/funding.png" alt="EliseAI Logo" width="300">
+<img src="/images/funding.png" alt="EliseAI Logo" width="300">
 
 *Cumulative Funds*
 
-<img src="../ai-case-study/images/Cumulative.png" alt="EliseAI Logo" width="300">
+<img src="/images/Cumulative.png" alt="EliseAI Logo" width="300">
 
 *Investors*
 
-<img src="../ai-case-study/images/Investors.png" alt="EliseAI Logo" width="300" height=150>
+<img src="/images/Investors.png" alt="EliseAI Logo" width="300" height=150>
 
 ## Business Activities
 EliseAI tackles challenges in real estate and healthcare by providing a suite of AI solutions, including:
