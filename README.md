@@ -83,3 +83,4 @@ As of 2023, EliseAI has partnered with America’s top 100 property managers to 
 > EliseAI stands out in comparison to its competitors, especially within the real estate and healthcare sectors. The company's revenue growth exceeds industry averages, solidifying its position as a prominent player. Positive customer satisfaction ratings underscore the effectiveness of EliseAI's solutions in real estate administrative tasks and CRM, managing over +1 million units. The company's commitment to ongoing innovation, demonstrated through its detailed metrics on leads and tour preferences, ensures it remains competitive and at the forefront of industry trends, addressing the unique needs of its clientele, including facilitating an impressive 5,000 tours every day.
 
 ## Recommendations
+
