@@ -1,4 +1,4 @@
-![EliseAI Logo](../ai-case-study/images/logo.png)
+![EliseAI Logo](/images/logo.png)
 
 # EliseAI
 
