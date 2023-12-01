@@ -70,7 +70,7 @@ As of 2023, EliseAI has partnered with America’s top 100 property managers to 
 
 ## Results
 
-> EliseAI has significantly impacted the real estate and healthcare sectors, experiencing substantial revenue growth and expanding its user base to manage over +1 million units. With +14,000 daily renter conversations and 5,000 tours every day, the company plays a pivotal role in enhancing communication within the real estate industry. Insights into leads, conversion rates, and tour preferences highlight the efficiency and scale of EliseAI's solutions. Strategic partnerships further extend the company's reach in these industries."
+> EliseAI has significantly impacted the real estate and healthcare sectors, experiencing substantial revenue growth and expanding its user base to manage over +1 million units. With +14,000 daily renter conversations and 5,000 tours every day, the company plays a pivotal role in enhancing communication within the real estate industry. Insights into leads, conversion rates, and tour preferences highlight the efficiency and scale of EliseAI's solutions. Strategic partnerships further extend the company's reach in these industries.
 
 
 | Metric                           | Multi-Unit Building | Fully Automated Building | Large Apartment Complex |
